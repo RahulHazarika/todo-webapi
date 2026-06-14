@@ -1,0 +1,2 @@
+C:\RahulGit\ToDoListApp\UnitTestProjectToDo\obj\Debug\UnitTestProjectToDo.csproj.AssemblyReference.cache
+C:\RahulGit\ToDoListApp\UnitTestProjectToDo\obj\Debug\UnitTestProjectToDo.csproj.CoreCompileInputs.cache

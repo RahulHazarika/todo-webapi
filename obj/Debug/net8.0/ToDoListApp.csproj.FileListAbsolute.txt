@@ -87,7 +87,6 @@ C:\Users\RahulHazarika\Desktop\ToDoListApp\ToDoListApp\obj\Debug\net8.0\refint\T
 C:\Users\RahulHazarika\Desktop\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.pdb
 C:\Users\RahulHazarika\Desktop\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ToDoListApp.genruntimeconfig.cache
 C:\Users\RahulHazarika\Desktop\ToDoListApp\ToDoListApp\obj\Debug\net8.0\ref\ToDoListApp.dll
-C:\RahulGit\ToDoListApp\bin\Debug\net8.0\UnitTestProjectToDo\packages.config
 C:\RahulGit\ToDoListApp\bin\Debug\net8.0\appsettings.Development.json
 C:\RahulGit\ToDoListApp\bin\Debug\net8.0\appsettings.json
 C:\RahulGit\ToDoListApp\bin\Debug\net8.0\ToDoListApp.staticwebassets.endpoints.json
@@ -134,10 +133,10 @@ C:\RahulGit\ToDoListApp\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\RahulGit\ToDoListApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\RahulGit\ToDoListApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
 C:\RahulGit\ToDoListApp\obj\Debug\net8.0\swae.build.ex.cache
+C:\RahulGit\ToDoListApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\RahulGit\ToDoListApp\obj\Debug\net8.0\ToDoList.5ED812B2.Up2Date
 C:\RahulGit\ToDoListApp\obj\Debug\net8.0\ToDoListApp.dll
 C:\RahulGit\ToDoListApp\obj\Debug\net8.0\refint\ToDoListApp.dll
 C:\RahulGit\ToDoListApp\obj\Debug\net8.0\ToDoListApp.pdb
 C:\RahulGit\ToDoListApp\obj\Debug\net8.0\ToDoListApp.genruntimeconfig.cache
 C:\RahulGit\ToDoListApp\obj\Debug\net8.0\ref\ToDoListApp.dll
-C:\RahulGit\ToDoListApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
